@@ -1,4 +1,4 @@
-# Open-Air
+# Open-Air Respirator
 
 Is an open source respirator, designed to CSA Z94.4-11, meeting or exceeding Health Canada standards.
 
